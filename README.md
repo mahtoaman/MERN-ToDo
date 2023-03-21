@@ -1,2 +1,2 @@
 # MERN-ToDo
-MERN Todo app with authentication (repository is not updated ye, it will be update by today evening(17th march)
+I have created this MERN ToDo app with authentication and this a fully functioning. I have also protected the private routes. If you like it give it a star.
